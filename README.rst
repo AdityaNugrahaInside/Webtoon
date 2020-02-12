@@ -35,7 +35,7 @@ Initialize
 
 >>> from Webtoon import Webtoon
 >>> response = Webtoon().genre()
->>> print(data)
+>>> print(response)
 
 ***************
 References
